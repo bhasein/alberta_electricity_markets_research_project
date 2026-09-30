@@ -1,4 +1,4 @@
-# Alberta Power Markets Project
+# Alberta Electricity Markets Research Project
 
 An audited Alberta electricity-market data and forecasting research program.
 The project standardizes AESO market data and ERA5 weather data, creates
